@@ -1,12 +1,17 @@
-# [EN] English:
-### CRUD Credit Cards :credit_card:
-:green_circle: [See site in netlify](https://app.netlify.com/sites/tarjetas-drprystupczuk/overview)
+# [EN] CRUD Credit Cards :credit_card:
+Completed [udemy course](https://www.udemy.com/course/crud-angular-9-net-core-entity-framework-coresqlserver/) for funny and learning reasons
 
 ### Description: 
-_[Udemy course](https://www.udemy.com/course/crud-angular-9-net-core-entity-framework-coresqlserver/) done for funny and learning reasons_
+_Credit cards managment:_ 
+- [service](https://github.com/drprystupczuk/back-credit-cards) deployed in [azure](https://tarjetasbackendservice.azurewebsites.net/) and 
+- frontend is deployed in [netlify](https://app.netlify.com/sites/tarjetas-drprystupczuk/overview).
 
 
 ### About me ✒️
-Diego Prystupczuk - Fullstack developer - [drprystupczuk](https://github.com/drprystupczuk)
+:man_technologist: Diego Prystupczuk - Fullstack developer
+- [Linkedin](https://www.linkedin.com/in/diegoprystupczuk/)
+- [Github](https://github.com/drprystupczuk)
+- [Youtube](https://www.youtube.com/channel/UCSeVAET6K1b8HLVULdzluXg)
+- [Twitter](https://twitter.com/DPrystupczuk)
 
 [Ver en español](README-español.md)
